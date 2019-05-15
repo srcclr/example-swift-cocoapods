@@ -1,0 +1,20 @@
+PODS:
+  - OpenSSL-Static (1.0.2.c1)
+  - SwiftClient (1.0.0)
+
+DEPENDENCIES:
+  - OpenSSL-Static (= 1.0.2.c1)
+  - SwiftClient (= 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OpenSSL-Static
+    - SwiftClient
+
+SPEC CHECKSUMS:
+  OpenSSL-Static: bd17e34564a8591ad76b740318683a6caa19a13e
+  SwiftClient: b6186869aeb1ed6582cbc52a89fe3c1dccbd96d3
+
+PODFILE CHECKSUM: 41811ffee6e44011e7a357cb5ed14484fa1f92e4
+
+COCOAPODS: 1.6.1
